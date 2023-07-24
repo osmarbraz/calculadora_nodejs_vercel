@@ -1,8 +1,8 @@
-# Programa servidor API-REST de calculadora utilizando Node.js.
+# Programa servidor API-REST de calculadora utilizando Node.js no Vercel.
 
 - O projeto foi desenvolvido no VSCode deve ser chamado "calculadora_nodejs_vercel".
 - Programa cliente está no projeto "calculadora_reactjs_vercel".
-- Programa servidor cria o webservice na posta 80.
+- Programa servidor cria o webservice na posta 80 no provedor Vercel(https://vercel.com/).
 - Implementação do serviço utilizando REST e o método GET.
 - A pasta src contêm os fontes do projeto.
 - Classe Calculadora executa quatro operações: adição, subtração, multiplicação e divisão.
