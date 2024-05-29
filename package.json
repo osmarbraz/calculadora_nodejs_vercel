@@ -1,5 +1,5 @@
 {
-  "name": "calculaddora_nodejs_vercel",
+  "name": "calculadora_nodejs_vercel",
   "version": "1.0.0",
   "description": "Calculadora Node.js Vercel",
   "main": ".\\src\\index",
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.19.2"
   }
 }
