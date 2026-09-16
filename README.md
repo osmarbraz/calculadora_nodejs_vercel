@@ -43,17 +43,17 @@
     `http://localhost:8000`
 
  - Serviço de adição via GET.
-    Substitua `<VALOR1\>` e `<VALOR2\>` pelos valores a serem somados.<br>
+    Substitua `<VALOR1>` e `<VALOR2>` pelos valores a serem somados.<br>
     `http://localhost:8000/adicao/<VALOR1>/<VALOR1>`
 
 - Serviço de subtração via GET.
-    Substitua `<VALOR1\>` e `<VALOR2\>` pelos valores a serem subtraídos.<br>
+    Substitua `<VALOR1>` e `<VALOR2>` pelos valores a serem subtraídos.<br>
     `http://localhost:8000/subtracao/<VALOR1>/<VALOR1>`    
 
 - Serviço de produto via GET.
-    Substitua `<VALOR1\>` e `<VALOR2\>` pelos valores a serem multiplicados.<br>
+    Substitua `<VALOR1>` e `<VALOR2>` pelos valores a serem multiplicados.<br>
     `http://localhost:8000/produto/<VALOR1>/<VALOR1>`
 
 - Serviço de divisão via GET.
-    substitua `<VALOR1\>` e `<VALOR2\>` pelos valores a serem divididos.<br>
+    substitua `<VALOR1>` e `<VALOR2>` pelos valores a serem divididos.<br>
     `http://localhost:8000/divisao/<VALOR1>/<VALOR1>`
