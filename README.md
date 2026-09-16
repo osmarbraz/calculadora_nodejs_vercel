@@ -37,10 +37,10 @@
 
 ## Serviços
 
-    Substitua localhost:8080 pelo endereço do servidor.
+    Substitua localhost:8000 pelo endereço do servidor.
 
  - Serviço da rota inicial VIA GET.
-    http://localhost:8000        
+    `http://localhost:8000`
 
  - Serviço de adição via GET.
     Substitua `<VALOR1\>` e `<VALOR2\>` pelos valores a serem somados.<br>
@@ -55,5 +55,5 @@
     `http://localhost:8000/produto/<VALOR1>/<VALOR1>`
 
 - Serviço de divisão via GET.
-    substitua \<VALOR1\> e \<VALOR2\> pelos valores a serem divididos.<br>
+    substitua `<VALOR1\>` e `<VALOR2\>` pelos valores a serem divididos.<br>
     `http://localhost:8000/divisao/<VALOR1>/<VALOR1>`
