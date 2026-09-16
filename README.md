@@ -56,4 +56,4 @@
 
 - Serviço de divisão via GET.
     substitua \<VALOR1\> e \<VALOR2\> pelos valores a serem divididos.<br>
-    http://localhost:8000/divisao/<VALOR1>/<VALOR1>        
+    `http://localhost:8000/divisao/<VALOR1>/<VALOR1>`
